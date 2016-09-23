@@ -1,0 +1,6 @@
+public/assets
+.sass-cache/
+spec/examples.txt
+/coverage/
+/.bundle/
+
