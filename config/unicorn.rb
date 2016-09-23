@@ -1,4 +1,4 @@
-root = "/opt/www/godbound/current"
+root = "/opt/www/godbound.geekwire.net/current"
 working_directory root
 pid "#{root}/tmp/pids/unicorn.pid"
 stderr_path "#{root}/log/unicorn.log"
