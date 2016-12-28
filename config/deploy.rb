@@ -4,7 +4,7 @@ lock '3.6.1'
 set :application, 'godbound'
 set :repo_url, 'git@github.com:rickenharp/godbound.git'
 set :rbenv_type, :user
-set :rbenv_ruby, '2.3.1'
+set :rbenv_ruby, '2.4.0'
 set :bundle_binstubs, -> { shared_path.join('bin') }
 set :bundle_jobs, 4
 
